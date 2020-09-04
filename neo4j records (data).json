@@ -1,0 +1,79 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Clubs"
+      ],
+      "properties": {
+        "name": "Clubs(identifies every player"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "League (Host matches in away and home)"
+      ],
+      "properties": {
+        "text": "Leagues{host matches"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Country"
+      ],
+      "properties": {
+        "text": "Country{offer opportunities for clubs to play outside"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Year (time)"
+      ],
+      "properties": {
+        "text": " Year{measure of duration "
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "WorldCup"
+      ],
+      "properties": {
+        "text": "World-cup best teams"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Player ( each player)"
+      ],
+      "properties": {
+        "text": "player"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Points (points are rewarded to the best players and team"
+      ],
+      "properties": {
+        "text": "Points"
+      }
+    }
+  }
+]
