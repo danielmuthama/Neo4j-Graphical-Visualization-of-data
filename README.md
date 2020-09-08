@@ -1,2 +1,2 @@
 # Neo4j-graphical-visualization-of-unorded-data
-However, it is essential to remember that Neo4j is a native graph database that is required because it is highly scalable as well as schema-free. In this case, Neo4j follows a data model known as a graph model by utilizing nodes as well as relationships that are stored in key-value pairs.
+It is essential to remember that Neo4j is a native graph database that is required because it is highly scalable as well as schema-free. In this case, Neo4j follows a data model known as a graph model by utilizing nodes as well as relationships that are stored in key-value pairs.
