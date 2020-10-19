@@ -4,4 +4,4 @@ In this case, Neo4j follows a data model known as a graph model by utilizing nod
 
 > Neo4j graph visual
 
-<img align="left" alt="NEO4J" width="426px" src="https://raw.githubusercontent.com/danielmuthama/Neo4j-graphical-visualization-of-relatable-data/edba408ef9b043a31a24daf5cc9e950c083aeb1b/neo4j%20graph.svg" />
+<img align="center" alt="NEO4J" width="426px" src="https://raw.githubusercontent.com/danielmuthama/Neo4j-graphical-visualization-of-relatable-data/edba408ef9b043a31a24daf5cc9e950c083aeb1b/neo4j%20graph.svg" />
